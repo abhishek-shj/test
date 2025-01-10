@@ -1,5 +1,5 @@
-function minusNumber(a,b)
+function multiplyNumber(a,b)
     {
-	    return a-b;
+	    return a*b;
     }
 
