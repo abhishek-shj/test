@@ -1,5 +1,5 @@
-function multiplyNumber(a,b)
+function DivNumber(a,b)
     {
-	    return a*b;
+	    return a/b;
     }
 
