@@ -1,2 +1,2 @@
-function hello(){
-	printf("hello");}
+function getPerson(){
+	printf("added");}
